@@ -10,7 +10,7 @@
   "type": 2,
   "status": "InProgress",
   "questions": [
-    [
+    
       {
         "TestUserId": 598178,
         "StartedOn": "2022-02-18T14:11:41.663Z",
@@ -90,9 +90,7 @@
         "ReviewAnswerOption": "",
         "IsAttempted": 0,
         "IsMarkedForReview": 0
-      }
-    ],
-    [
+      },
       {
         "TestUserId": 598178,
         "StartedOn": "2022-02-18T14:11:41.663Z",
@@ -173,6 +171,6 @@
         "IsAttempted": 0,
         "IsMarkedForReview": 0
       }
-    ]
+    
   ]
 }
