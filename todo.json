@@ -2,24 +2,24 @@
 {
 "todoId": 1,
 "todoName": "Plan next day before sleep",
-  "todoStatus": true
+"todoStatus": true
 },
 {
 "todoId": 2,
 "todoName": "Wake up early",
-    "todoStatus": false
+"todoStatus": false
 
 },
 {
 "todoId": 3,
 "todoName": "Read a book",
-    "todoStatus": true
+"todoStatus": true
 
 },
 {
 "todoId": 4,
 "todoName": "Start routine work",
-    "todoStatus": true
+"todoStatus": true
 
 }
 ]
